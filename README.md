@@ -7,6 +7,6 @@ The first drop down menu gives the opportunity to the user to select the categor
 Here is a link with informations about this kaggle competition  https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description  and also you can find the files at this link https://www.kaggle.com/c/m5-forecasting-accuracy/data. We used the calendar.csv,sales_train_evaluation.csv and sales_train_validation.csv. The sales_train_evaluation.csv file 
 constitutes the train dataset and the sales_train_validations.csv file contains all the sales with the next 28 daily sales and we used it to measure the accuracy of the model.
 
-In the video you can see the functions of the drop-down menus. You can copy the code at your local jupyter notebook but you must download the files or you can send me a message to send you the zip file with all files in to upload it at your jupyter notebook. 
+In the video you can see the functions of the drop-down menus.If you want to see the operations the operations of drop-down menus, you can copy the code at your local jupyter notebook but you must download the files or you can send me a message to send you the zip file with all files in to upload it at your jupyter notebook. 
 
-Have fun and thank you for your attention
+Have fun and thank you for your attention !!!
