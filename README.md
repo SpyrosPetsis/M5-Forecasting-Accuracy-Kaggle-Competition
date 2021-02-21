@@ -7,3 +7,4 @@ The first drop down menu gives the opportunity to the user to select the categor
 Here is a link with informations about this kaggle competition  https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description  and also you can find the files at this link https://www.kaggle.com/c/m5-forecasting-accuracy/data. We used the calendar.csv,sales_train_evaluation.csv and sales_train_validation.csv. The sales_train_evaluation.csv file 
 constitutes the train dataset and the sales_train_validations.csv file contains all the sales with the next 28 daily sales and we used it to measure the accuracy of the model.
 
+You can copy the 
